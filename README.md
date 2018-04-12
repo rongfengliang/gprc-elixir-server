@@ -39,3 +39,8 @@ Change the config to:
 ```elixir
 config :grpc, start_server: true
 ```
+
+
+## golang client demo 
+
+see [grpc golang client](https://github.com/rongfengliang/grpc-elixir)
